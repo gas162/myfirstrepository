@@ -1,1 +1,2 @@
 C:\Test_gitHub\myfirstrepository\Test\bin\Debug\Test.exe.config
+C:\Test_gitHub\myfirstrepository\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
